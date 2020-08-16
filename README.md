@@ -8,4 +8,4 @@ Food was prepared
 
 set up base with soil
 
-set up a water to drink
+set up a water and milk to drink
