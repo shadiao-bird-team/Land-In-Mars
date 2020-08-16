@@ -3,5 +3,5 @@
 We need set up a base on mars
 
 Prepare materials completed
-Prepare foods complated
-some new ocntent
+
+Food was prepared
