@@ -7,3 +7,5 @@ Prepare materials completed
 Food was prepared
 
 set up base with soil
+
+set up a water to drink
